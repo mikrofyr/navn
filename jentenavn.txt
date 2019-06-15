@@ -4,7 +4,6 @@ Anne
 Astrid 
 Emma 
 Frida 
-Gro 
 Guro 
 Hedda 
 Hege 
@@ -14,7 +13,6 @@ Ingeborg
 Ingrid 
 Ingunn 
 Ingvild 
-Jenny 
 Kari 
 Karoline 
 Lena 
