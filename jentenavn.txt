@@ -1,17 +1,11 @@
 Ada   
 Ane 
 Anne 
-Alva 
-Aria 
 Astrid 
-Edel 
-Eira 
 Emma 
-Erle 
 Frida 
 Gro 
 Guro 
-Gøril 
 Hedda 
 Hege 
 Ida 
@@ -24,7 +18,6 @@ Jenny
 Kari 
 Karoline 
 Lena 
-Lerke 
 Linn 
 Liv 
 Live 
@@ -37,7 +30,6 @@ Oline
 Olivia 
 Ronja 
 Runa 
-Saga 
 Signe 
 Sigrid 
 Silje 
@@ -48,5 +40,4 @@ Tone
 Tove 
 Tuva 
 Vera 
-Ylva 
 Åse 
