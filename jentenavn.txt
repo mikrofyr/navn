@@ -2,7 +2,6 @@ Ane
 Anne 
 Astrid 
 Emma 
-Frida 
 Guro 
 Hege 
 Ida 
@@ -18,10 +17,8 @@ Linn
 Liv 
 Live 
 Maja  
-Mari 
 Mona 
 Nora 
-Oda 
 Oline 
 Ronja 
 Runa 
