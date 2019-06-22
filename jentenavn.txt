@@ -1,11 +1,9 @@
-Ada   
 Ane 
 Anne 
 Astrid 
 Emma 
 Frida 
 Guro 
-Hedda 
 Hege 
 Ida 
 Idunn 
@@ -25,7 +23,6 @@ Mona
 Nora 
 Oda 
 Oline 
-Olivia 
 Ronja 
 Runa 
 Signe 
@@ -33,7 +30,6 @@ Sigrid
 Silje 
 Solveig 
 Stine 
-Synnøve 
 Tone 
 Tove 
 Tuva 
