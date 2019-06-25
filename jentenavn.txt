@@ -1,5 +1,4 @@
 Ane 
-Anne 
 Astrid 
 Emma 
 Guro 
@@ -26,10 +25,8 @@ Runa
 Signe 
 Sigrid 
 Silje 
-Solveig 
 Stine 
 Tone 
 Tove 
 Tuva 
-Vera 
 Åse 
