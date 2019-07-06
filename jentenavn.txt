@@ -6,7 +6,7 @@ Hege
 Ida 
 Idun 
 Ingrid 
-Ingunn 
+Ingun 
 Ingvild 
 Karin
 Lena 
@@ -20,6 +20,4 @@ Signe
 Sigrid 
 Silje 
 Stine 
-Tone 
-Tove 
 Åse 
