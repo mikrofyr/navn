@@ -1,6 +1,5 @@
 Ane 
 Astrid 
-Emma 
 Guro 
 Hege 
 Ida 
@@ -8,14 +7,11 @@ Idun
 Ingrid 
 Ingun 
 Ingvild 
-Karin
-Lena 
-Linn 
+Lena
 Liv 
 Live 
 Mari
 Mona 
-Runa 
 Signe 
 Sigrid 
 Silje 
