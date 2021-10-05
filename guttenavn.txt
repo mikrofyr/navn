@@ -2,8 +2,6 @@ Anders
 Are
 Asgeir
 Egil
-Einar
-Espen
 Frode
 Gaute
 Gunnar
@@ -11,7 +9,6 @@ Ingve
 Ivar/Iver
 Jon
 Knut
-Kristian
 Marius
 Markus
 Odin
@@ -30,9 +27,7 @@ Svein
 Sverre
 Terje
 Tor
-Torgrim
 Tormod
 Torstein
 Torvald
-Vemund
 Yngve
